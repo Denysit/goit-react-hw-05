@@ -1,0 +1,30 @@
+.container {
+    margin: 20px;
+}
+
+.loading,
+.error,
+.notFound {
+    margin-top: 10px;
+    color: red;
+}
+
+.searchInput {
+    padding: 5px;
+    margin-right: 10px;
+}
+
+.searchButton {
+    padding: 5px 10px;
+    background-color: #007bff;
+    
+    color: white;
+   
+    border: none;
+    cursor: pointer;
+}
+
+.searchButton:hover {
+    background-color: #0056b3;
+    
+}
